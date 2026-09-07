@@ -12,6 +12,7 @@ Quick Reference
 
 ## 2 Player Card Games{#2-player-games}
 - [Gin Rummy](2-player-games/gin-rummy.md)
+- [Love Letter](2-player-games/love-letter.md) (incomplete)
 - War (incomplete)
 - Memory Games (incomplete)
 - Speed (incomplete)
