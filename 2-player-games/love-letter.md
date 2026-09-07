@@ -3,7 +3,7 @@
 > <sub>Reference: [Z-Man Games post](https://cdn.svc.asmodee.net/production-zman/uploads/2026/04/LL_Rulebook_with_Bag.pdf)</sub>
 > A unique 2-6 player game with very quick rounds that involves eliminating your opponents when everyone holds only one card in their hand.
 ## Quick Reference
-![love letter reference card](../assets/images/love-letter-reference-card.png)
+![love letter reference card](../assets/images/love-letter-reference-card-cropped.png)
 <sub>Reference: Love Letter official reference card. Picture from: [Z-Man Games post](https://cdn.svc.asmodee.net/production-zman/uploads/2026/04/LL_Rulebook_with_Bag.pdf)</sub>
 
 ## Table of Contents
