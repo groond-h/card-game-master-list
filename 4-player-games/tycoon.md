@@ -14,7 +14,7 @@
 - [Scoring](#scoring)
 - [Additional Notes](#additional-notes)
 
-## Setup {#setup}
+## Setup
 - 52 card deck + 2 Jokers
 - Each player gets 13 cards each
     - There will be an extra 2 cards; these can be distributed in any manner the players feel, or they can be excluded from play
@@ -22,10 +22,10 @@
     - If the 3:diamonds: is out of play, then the player with the 3:clubs: starts, if that is also out of play, then it goes to the player with the 3:hearts: 
 - For the remainder of the hands, the Tycoon begins the hand
 
-## Objective {#objective}
+## Objective
 The player who collects the most points at the end of three hands wins the game.
 
-## Rules {#rules}
+## Rules
 One round is played as a series of "tricks" 
 ### Player Turn
 
@@ -44,7 +44,7 @@ One round is played as a series of "tricks"
 |Jokers||
 ### Revolution
 ### Ending the Round
-### Titles {#titles}
+### Titles
 |Title|Description|
 |---|---|
 |Commoner||
@@ -56,10 +56,10 @@ One round is played as a series of "tricks"
 
 
 
-## Scoring {#scoring}
+## Scoring
 
 
-### Additional Notes {#additional-notes}
+### Additional Notes
 
 ***
 As mentioned in the Introduction, Tycoon is a card-shedding game that lasts 3 rounds (or tricks). The main objective is to get rid of one's hand before other opponents in order to win the rank of Tycoon and earn the most points. The game is won by the player with the most points after all 3 rounds have been played. This means you may not necessarily be Tycoon all three rounds, but you can still win as long as you have more points than anyone else.

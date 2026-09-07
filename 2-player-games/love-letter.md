@@ -12,7 +12,7 @@
 - [Rules](#rules)
 - [Scoring](#scoring)
 - [Additional Notes](#additional-notes)
-## Setup {#setup}
+## Setup
 When using a regular deck of cards, here is what to include:
 - 1x 9 (Princess), 8 (Countess), 7 (King)
 - 2x 6 (Chancellor), 5 (Prince), 4 (Handmaid), 3 (Baron), 2 (Priest), Joker (Spy)
@@ -22,15 +22,15 @@ Setup for each round:
 - Shuffle the deck and deal one card to each player
 - The player who won the last round takes the first turn
 
-## Objective {#objective}
+## Objective
 how you win/lose
 
-## Rules {#rules}
+## Rules
 
-### First Turn {#first-turn}
+### First Turn
 
-### Every Turn {#every-turn}
+### Every Turn
 
-## Scoring {#scoring}
+## Scoring
 
-### Additional Notes {#additional-notes}
+### Additional Notes
