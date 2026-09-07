@@ -1,10 +1,11 @@
 [return](../master.md)
 # Tycoon
-<sub>Reference: [Gamefaqs forum](https://gamefaqs.gamespot.com/xbox-series-x/370656-persona-5-royal/faqs/81221/basic-rules)</sub>
-description of game
+><sub>Reference: [Gamefaqs forum](https://gamefaqs.gamespot.com/xbox-series-x/370656-persona-5-royal/faqs/81221/basic-rules)</sub>
+> description of game
 
 ## Quick Reference
 ![image from reddit](../assets/images/tycoon-image.jpg)
+<sub> Reference: [reddit post](https://www.reddit.com/r/Persona5/comments/gcjgm8/rules_for_tycoon_card_game_in_p5r/) </sub>
 
 ## Table of Contents
 - [Setup](#setup)
