@@ -11,7 +11,8 @@
 - [Setup](#setup)
 - [Objective](#objective)
 - [Rules](#rules)
-- [Scoring](#scoring)
+- [Card Effects](#card-effects)
+- [Winning A Round](#winning-a-round)
 - [Additional Notes](#additional-notes)
 ## Setup
 When using a regular deck of cards, here is what to include:
@@ -28,32 +29,38 @@ Setup for each round:
 
 ## Objective
 The first player to reach the target number of points ("favors") across a number of rounds wins the game.<br>
-<b>2 players:</b> 
-<b>3 players:</b>
+<b>2 players:</b> 6 points
+<b>3 players:</b> 5 points
 <b>4 players:</b> 4 points
-<b>5 players:</b>
-<b>6 players:</b>
+<b>5-6 players:</b> 3 points
 
 ## Rules
 ### On Your Turn
+- Draw a card from the deck
+- Choose one card from your hand to discard
+- Card effects take place immediately after playing the card
 ### Card Effects
-Card effects take place immediately after playing the card. 
-If a card is discarded, its effect does not trigger unless stated otherwise.
 | Card | Value | Effect |
 | --- | --- | --- |
 | Princess | 9 | If this card is discarded in any way, you are out of the round |
-| Countess | 8 | This card must be discarded if you have a King or Prince in your hand |
+| Countess | 8 | On your turn, this card must be discarded if the King or Prince is the other card in your hand |
 | King | 7 | Swap hands with any other player. If there are no players to target, this effect does not trigger |
-| Chancellor | 6 | Draw 2 cards. Choose 2 cards from your hand, and place them in any order at the bottom of the deck |
-| Prince | 5 | You must choose a player (including yourself), and they must discard their current card and then redraw another card. If there is no one to target, you discard your own hand |
+| Chancellor | 6 | Draw 2 cards. Choose 2 cards from your hand, and place them in any order at the bottom of the deck. </br>If there are not enough cards in the deck, draw as many cards as there are remaining in the deck and replace as many cards as you drew from the deck.|
+| Prince | 5 | You must choose a player (including yourself), and they must discard their current card and then redraw another card. If there is no one to target, you discard your own hand.</br>The discarded card's effect does not take effect, unless it is the Princess.</br>If there are no other cards in the deck, the discarding player takes the card that was set aside at the start of the round. |
 | Handmaid | 4 | You cannot be targeted until your next turn |
 | Baron | 3 | Choose another player to compare hands. The player with the lower number value card in their hand is out of the round. If there is a tie, then no one is out |
 | Priest | 2 | Choose a player to view the card in their hand  |
 | Guard | 1 | Guess the card in a player's hand. If you guess correctly, they are out of the round |
-| Spy | 0 | At the end of the round, you gain a point if no other Spy cards have been discarded or played during the round. |
+| Spy | 0 | No effect.</br>At the end of the round, you gain a point if you are the only player <b>still in the round</b> to have played/discarded a Spy card. |
 ### Winning a Round
 A player wins a round if:
-- All other players are out
-- The deck has run out and the player's card has the highest number value out of all remaining players
+- All other players are out, or
+- The deck has run out and the player's card has the highest number value out of all remaining players.
+
+If there is a tie, the players who tie gain a point.
 
 ### Additional Notes
+Clarification on some special interactions:
+- If there are no players to target and you play the Prince, you must discard your own card.
+- If there are no players to target and you play a King/Baron/Priest/Guard, there will be no effect. 
+- A player who gained a point through the Spy card's effect does not count as winning the round.
