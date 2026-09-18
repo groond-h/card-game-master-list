@@ -1,7 +1,7 @@
 [return](../master.md)
 # Tycoon
 ><sub>Reference: [Gamefaqs forum](https://gamefaqs.gamespot.com/xbox-series-x/370656-persona-5-royal/faqs/81221/basic-rules)</sub>
-> description of game
+> A card-shedding game of momentum and risk-taking.
 
 ## Quick Reference
 ![image from reddit](../assets/images/tycoon-image.jpg)
@@ -26,32 +26,36 @@
 The player who collects the most points at the end of three hands wins the game.
 
 ## Rules
-One round is played as a series of "tricks" 
+One round is played as a series of tricks. 
+Player turns take place in counterclockwise order.
 ### Player Turn
 
 ### Card Combinations
+When beginning the trick, the player can choose to play any one of the following combinations in the table below. Another player can play a combination of the same type and of higher number value on top of the topmost played combination.
+
 |Combination|Explanation|Example|
 |---|---|---|
-|Single|||
-|Double|||
-|Triple|||
-|Revolution|||
+|Single|One individual card. |K:hearts:|
+|Double|Two cards of the same number value.|2:spades:2:clubs:|
+|Triple|Three cards of the same number value.|Q:diamonds:Q:hearts:Q:spades:|
+|Revolution|Four cards of the same number value.|5:spades:5:clubs:5:diamonds:5:hearts:|
+
 ### Special Cards
 |Card|Effect|
 |---|---|
-|3:spades:||
-|Any 8||
-|Jokers||
+|3:spades:|A single 3:spades: can be played over a single Joker and will immediately end the turn if the 3:spades: is played on a Joker, regardless of a Revolution.</br></br>However, a Joker can be played on a 3:spades: if the 3:spades: has not been played in the manner described above.|
+|Any 8 (8 Stop)|The 8 Stop ends the turn and the player who played the 8 stop will begin the next turn.</br></br>The 8 Stop has a value of 8 and must also follow the rules outlined in [Card Combinations](#card-combinations); for example, if the last played cards was 6:diamonds:6:spades:, then to use an 8 Stop you must play 8:hearts:8:diamonds: or any 2 combinations of 8 in your hand|
+|Jokers|A single/double Joker is considered the highest card in any combination regardless of a Revolution.</br></br>For non-single combinations, a Joker can substitute as any other card. For example, A Joker can substitute for a King to create Triple Kings using K:spades:K:diamonds::black_joker:|
 ### Revolution
 ### Ending the Round
 ### Titles
 |Title|Description|
 |---|---|
 |Commoner||
-|Tycoon| Given to the first player to finish shedding all their cards in a round.|
-|Rich| |
-|Poor| |
-|Beggar| |
+|Tycoon| Given to the first player to finish shedding all their cards in a round.</br></br>If another player finishes shedding their cards before the Tycoon, the Tycoon is immediately out of the round and is assigned the Beggar role.|
+|Rich| Given to the second player to finish shedding all their cards in a round.|
+|Poor| Given to the third player to finish shedding all their cards in a round.|
+|Beggar| Given to the last player to finish shedding all their cards in a round.|
 
 
 
