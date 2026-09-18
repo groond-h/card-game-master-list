@@ -28,17 +28,20 @@ The player who collects the most points at the end of three hands wins the game.
 ## Rules
 One round is played as a series of tricks. 
 Player turns take place in counterclockwise order.
-### Player Turn
-
+### Tricks
+During a player's turn during a trick their options consists of the following:
+- A player that begins the trick must begin a new one by playing from their hand any one of the [card combinations](#card-combinations)
+- A player who does not begin their trick can either:
+    - play a combination of the same type that was played at the beginning of the trick with a higher number value
+    - pass, giving the next player their turn. A player must pass if they do not have a combination that is of higher value than the one last played
+- If a player plays a combination that all players have passed to, this player ends the trick and can begin a new one 
 ### Card Combinations
-When beginning the trick, the player can choose to play any one of the following combinations in the table below. Another player can play a combination of the same type and of higher number value on top of the topmost played combination.
-
 |Combination|Explanation|Example|
 |---|---|---|
 |Single|One individual card. |K:hearts:|
 |Double|Two cards of the same number value.|2:spades:2:clubs:|
 |Triple|Three cards of the same number value.|Q:diamonds:Q:hearts:Q:spades:|
-|Revolution|Four cards of the same number value.|5:spades:5:clubs:5:diamonds:5:hearts:|
+|Revolution|Four cards of the same number value. Triggers a [Revolution](#revolution).|5:spades:5:clubs:5:diamonds:5:hearts:|
 
 ### Special Cards
 |Card|Effect|
