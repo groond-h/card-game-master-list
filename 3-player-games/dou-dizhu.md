@@ -1,5 +1,5 @@
 [return](../master.md)
-# Dou Dizhu (The Landlord Game)
+# Dou Dizhu (Fighting the Landlord)
 > <sub>Reference: Wikipedia (link needed)</sub>
 > A card-shedding game involving a unique 1v2 dynamic.
 ## Quick Reference
