@@ -19,7 +19,7 @@ Quick Reference
 
 ## 3 Player Card Games{#3-player-games}
 - Skull (incomplete)
-- Dou Dizhu (Fighting the Landlord) (incomplete)
+- [Dou Dizhu](3-player-games/dou-dizhu.md) (Fighting the Landlord) (incomplete)
 
 ## 4 Player Card Games{#4-player-games}
 - Gongzhu (incomplete)
