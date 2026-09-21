@@ -12,7 +12,7 @@ Quick Reference
 
 ## 2 Player Card Games{#2-player-games}
 - [Gin Rummy](2-player-games/gin-rummy.md)
-- [Love Letter](2-player-games/love-letter.md) (incomplete)
+- [Love Letter](2-player-games/love-letter.md)
 - War (incomplete)
 - Memory Games (incomplete)
 - Speed (incomplete)
@@ -27,7 +27,7 @@ Quick Reference
 - Hearts (incomplete)
 - President (incomplete)
 - Big 2 (incomplete)
-- [Tycoon (incomplete)](4-player-games/tycoon.md) 
+- [Tycoon](4-player-games/tycoon.md) 
 
 ## 5+ Player Card Games{#5-player-games}
 - Werewolf/Mafia (incomplete)
