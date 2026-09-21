@@ -11,6 +11,13 @@
 - [Setup](#setup)
 - [Objective](#objective)
 - [Rules](#rules)
+    - [Tricks](#tricks)
+    - [Card Combinations](#card-combinations)
+    - [Special Cards](#special-cards)
+    - [Revolution](#revolution)
+    - [Titles/Roles](#titles)
+    - [Ending the Round](#ending-the-round)
+    - [Bankruptcy](#bankruptcy)
 - [Scoring](#scoring)
 - [Additional Notes](#additional-notes)
 
@@ -21,6 +28,7 @@
 - For the first hand, the player with 3:diamonds: starts
     - If the 3:diamonds: is out of play, then the player with the 3:clubs: starts, if that is also out of play, then it goes to the player with the 3:hearts: 
 - For the remainder of the hands, the Tycoon begins the hand
+- The starting player may begin with any combination of their choice
 
 ## Objective
 The player who collects the most points at the end of three hands wins the game.
@@ -33,8 +41,10 @@ During a player's turn during a trick their options consists of the following:
 - A player that begins the trick must begin a new one by playing from their hand any one of the [card combinations](#card-combinations)
 - A player who does not begin their trick can either:
     - play a combination of the same type that was played at the beginning of the trick with a higher number value
+        - A combination of identical number value may NOT be played (ex. 4:spades:4:diamonds: on 4 :clubs:4:hearts: is not permitted)
     - pass, giving the next player their turn. A player must pass if they do not have a combination that is of higher value than the one last played
-- If a player plays a combination that all players have passed to, this player ends the trick and can begin a new one 
+- If a player plays a combination that all players have passed to, this player ends the trick and can begin a new one
+    - The only other way for a trick to end is with the [8 Stop or 3:spades:](#special-cards)
 ### Card Combinations
 |Combination|Explanation|Example|
 |---|---|---|
@@ -46,81 +56,56 @@ During a player's turn during a trick their options consists of the following:
 ### Special Cards
 |Card|Effect|
 |---|---|
-|3:spades:|A single 3:spades: can be played over a single Joker and will immediately end the turn if the 3:spades: is played on a Joker, regardless of a Revolution.</br></br>However, a Joker can be played on a 3:spades: if the 3:spades: has not been played in the manner described above.|
-|Any 8 (8 Stop)|The 8 Stop ends the turn and the player who played the 8 stop will begin the next turn.</br></br>The 8 Stop has a value of 8 and must also follow the rules outlined in [Card Combinations](#card-combinations); for example, if the last played cards was 6:diamonds:6:spades:, then to use an 8 Stop you must play 8:hearts:8:diamonds: or any 2 combinations of 8 in your hand|
-|Jokers|A single/double Joker is considered the highest card in any combination regardless of a Revolution.</br></br>For non-single combinations, a Joker can substitute as any other card. For example, A Joker can substitute for a King to create Triple Kings using K:spades:K:diamonds::black_joker:|
+|3:spades:|A single 3:spades: can be played over a single Joker and will immediately end the turn if the 3:spades: is played on a Joker, regardless of a [Revolution](#revolution).</br></br>However, a Joker can be played on a 3:spades: if the 3:spades: has not been played in the manner described above. </br></br>For example, if the 3:spades: was played on top of a 4:diamonds: during a Revolution, a Joker may be played on top of the 3:spades:|
+|Any 8 (8 Stop)|The 8 Stop ends the turn and the player who played the 8 stop will begin the next turn.</br></br>The 8 Stop has a value of 8 and must also follow the rules outlined in [Card Combinations](#card-combinations).</br></br>For example, if the last played cards was 6:diamonds:6:spades:, then to use an 8 Stop you must play 8:hearts:8:diamonds: or any 2 combinations of 8 in your hand.|
+|Jokers|A single/double Joker is considered the highest card in any combination regardless of a Revolution.</br></br>For non-single combinations, a Joker can substitute as any other card. For example, A Joker can substitute for a King to create Triple Kings using K:spades:K:diamonds::black_joker:.|
 ### Revolution
-### Ending the Round
+- A Revolution is triggered by playing four cards of the same number value 
+    - example: Q:spades:Q:diamonds:Q:hearts:Q:clubs:
+- A Revolution immediately reverses the number value of all cards except the Joker and persists until the end of the round, and resets to normal once a new round begins
+- A Revolution played during an ongoing Revolution is considered a Counter-Revolution where the number value of all cards is reset to normal
+    - NOTE: If a Counter-Revolution is to be played on the same trick as the Revolution, keep in mind that the card order is already reversed
+        - For example, if a 9:spades:9:diamonds:9:hearts:9:clubs: Revolution is played, a 8:spades:8:diamonds:8:hearts:8:clubs: to 3:spades:3:diamonds:3:clubs:3:hearts: can be played on the same turn to trigger a Revolution
+- An 8 Revolution (ex. 8:spades:8:diamonds:8:hearts:8:clubs:) still retains the [8-Stop mechanic](#special-cards) and will immediately end the trick in addition to triggering a Revolution
+
+Normal Card Value Rank:
+3 > 4 > 5 > 6 > 7 > 8 > 9 > 10 > J > Q > K > A > 2 > Joker
+
+Card Value Rank during a Revolution: 
+2 > A > K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > Joker
+
 ### Titles
 |Title|Description|
 |---|---|
-|Commoner||
-|Tycoon| Given to the first player to finish shedding all their cards in a round.</br></br>If another player finishes shedding their cards before the Tycoon, the Tycoon is immediately out of the round and is assigned the Beggar role.|
-|Rich| Given to the second player to finish shedding all their cards in a round.|
-|Poor| Given to the third player to finish shedding all their cards in a round.|
-|Beggar| Given to the last player to finish shedding all their cards in a round.|
+|Commoner| All players begin with this role at the start of the game. Does nothing, moreso an aesthetic role. |
+|Tycoon| Given to the first player to finish shedding all their cards in a round.</br></br>At the beginning of the next round, The Tycoon can choose which 2 cards from their hand to give to the Beggar.</br></br>If another player finishes shedding their cards before the Tycoon, the Tycoon is immediately out of the round and is assigned the Beggar role (see [Bankruptcy](#bankruptcy)).|
+|Rich| Given to the second player to finish shedding all their cards in a round.</br></br>At the beginning of the next round, the Rich may choose any one card from their hand to give to the Poor.|
+|Poor| Given to the third player to finish shedding all their cards in a round.</br></br>At the beginning of the next round, the Poor must give the Rich their highest card, starting with a Joker.|
+|Beggar| Given to the last player to finish shedding all their cards in a round.</br></br>At the beginning of the next round, the Beggar must give the Tycoon their 2 highest cards, starting with Jokers.|
 
+### Ending the Round
+When a player finishes shedding all their cards:
+- If this player is not the current Tycoon in the game and is also the first one to finish, the Tycoon is considered [Bankrupt](#bankruptcy)
+    - If the Tycoon is the first to finish shedding their hand, play resumes as normal
+- Any remaining players resume play without the player(s) out of the round
+    - If all remaining players pass to a combination played by a player now out of the round, the player next in turn begins a new trick
 
+The round ends when only one person is left in the round.
 
+### Bankruptcy
+A Bankruptcy occurs when a non-Tycoon player is the first to finish shedding their hand in a round.
 
+When this occurs, the current Tycoon:
+- Is immediately out of the round
+- Assigned the Beggar role 
+- The last remaining player to finish shedding their cards will be instead assigned the Poor role
 ## Scoring
-
+Scores are given based on the role assigned at the end of the round. 
+|Title|Points|
+|---|---|
+|Tycoon| +30 |
+|Rich| +20 |
+|Poor| +10 |
+|Beggar| +0 |
 
 ### Additional Notes
-
-***
-As mentioned in the Introduction, Tycoon is a card-shedding game that lasts 3 rounds (or tricks). The main objective is to get rid of one's hand before other opponents in order to win the rank of Tycoon and earn the most points. The game is won by the player with the most points after all 3 rounds have been played. This means you may not necessarily be Tycoon all three rounds, but you can still win as long as you have more points than anyone else.
-
-Everyone starts with the whole deck split evenly among 4 players. The game is played with the full 54-card deck from 2 to Ace, including two Jokers.
-
-Tycoon Ranks
-There are four ranks, one assigned to each player, that determine how many points can be won in that round. Everyone starts the game as a Commoner (Heimin), and the order in which the first round ends (who got rid of their hand first, second, and so on) assigns ranks that carry over to the next round. Ranks do not have to stay the same for all three rounds, but there is a clear advantage to maintaining one's Tycoon rank.
-
-Tycoon (Daifugo) = this is the highest rank, and it earns the player 30 points if they get rid of their hand first.
-Rich (Fugo) = second-highest rank, earned by the second person to get rid of their cards after Tycoon. Earns 20 points.
-Poor (Hinmin) = third-highest rank, wins 10 points.
-Beggar (Daihinmin) = lowest rank, does not win any points. NOTE: A Tycoon who does not exit first in the next round automatically becomes a Beggar, leaving the remaining 3 opponents to battle it out for the ranks of Tycoon, Rich, and Poor.
-Ranks also determine who trades cards with whom on rounds 2 and 3, and which cards can be traded.
-
-Trading Cards
-Trading cards occurs at the start of rounds 2 and 3, after ranks have been established by the outcome of Round 1. Below is the order of trading (exchanging cards), as well as which cards can be traded.
-
-Beggar (must give away two of their highest-ranked cards) ↔ Tycoon (must give away any two cards)
-Poor (must give away their highest-ranked card) ↔ Rich (must give away any one card)
-Card Rank Order
-The rank order of cards in Tycoon is as follows:
-
-Cards 3 to Ace behave in the traditional way (4 is higher than 3, 5 is higher than 4, and so on, until Ace is higher than King)
-2s are higher than and beat Ace
-Special Cards
-In addition to the above behavior, there are special cards as below:
-
-Jokers act as a wild card: they can be used...
-...alone (or together with the other Joker) to represent a card (or pair) one rank higher than the one (or pair) currently on the table to beat it
-...in combination with one or more regular cards to create a pair, triple, or even quadruple (e.g., two 10s and a Joker can be used as three 10s)
-3 of Spades beats Joker
-ONLY the 3 of Spades has this power (a 3 of any other suit will not work); if a single Joker is used to beat a lower card, a 3 of Spades will trump it
-It cannot beat any other cards, and it cannot be used to beat a Joker pair
-8 Stop is an 8 of any suit (or combination of 8s, or 8s and Jokers) and acts like a Skip card (stylized as End Turn or 8 Cut in the game)
-If an 8 is used to beat card(s) currently on the table, it ends the turn, makes all opponents skip, and starts the next turn with the player who used it
-One 8 card is sufficient to trigger End Turn; however, the number of 8s used must match the number of cards to beat (e.g., if a pair of 5s is on the table, the player must use a pair of 8s, or an 8 + Joker) to end the turn
-Playing Cards
-Each game is played with 4 players, and 3 opponents are selected at random by AI. If you don't like the selected opponents, simply exit the Tycoon table and interact with it again to shuffle opponents.
-
-Any card can be played at the start. Players have the option to play a pair, triple, or even a quadruple (set of four). The only rule is that one must beat cards currently on the table in the same set fashion -- that is, if a single was played, it can only be beaten by a single card, if a pair was played, it must be beaten with a pair, and so on.
-
-Passing
-
-In addition to beating cards, you always have the option to Pass. Passing is optional if you have a card that can beat card(s) currently on the table, and forced when you have no cards of high enough rank to continue. It can be an asset, so be sure to check our the next section for tips on passing.
-
-Revolution and Counterrevolution
-The game also features a special action and a counter-action, called Revolution and Counterrevolution.
-
-Revolution can be triggered by any player throwing four of the same card (e.g., four 7s, or two 7s + two Jokers, etc.). This reverses the rank order of cards, such that lower cards now beat higher cards in the opposite rank-order.
-
-Notes:
-Jokers and 3 of Spades still retain their special uses. A 3 of Spades can still beat a Joker, and a Joker can still stand in for another card(s) or make a set with other cards.
-An 8 card can still cause End Turn, but note its reversed value.
-
-Counterrevolution can be triggered by another player in same turn beating the set of four cards thrown down by the previous player, by beating it with another set of four cards (NOTE that since Revolution is currently active, the set of four cards must now be 'higher' in rank under the newly reversed rank-order to beat the set that caused a Revolution).
-Counterrevolution does not need to occur within the same turn to work; a player can wait until the next round to trigger a Counterrevolution if they cannot beat the current set of four cards in rank.
