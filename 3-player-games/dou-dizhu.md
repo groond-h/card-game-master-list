@@ -20,11 +20,34 @@ a chart or table to quickly remind the user of game details.
 how you win/lose
 
 ## Rules
+Each round consists of two phases:
+- Bidding phase
+- Card phase
 
-### First Turn
+### Bidding phase
+In this phase, players take turns bidding risk stakes (points) to be the landlord
+- There are 3 risk stakes, 1 (lowest), 2, and 3 (highest)
+- The first player to bid depends on house rules; either chosen at random or the player with the 3:hearts:
+- Players can either:
+    - bid a higher stake than the current bid
+    - pass their bid to the next player
+- The player that bids the highest risk stake or the first player to bid a stake of 3 becomes the landlord
+- The landlord takes all of the spare cards
 
-### Every Turn
+### Card phase
+The landlord begins the first trick.
+
+### Combinations
 
 ## Scoring
+If the landlord wins: 
+- Landlord takes base points equal to the number of risk points bid during the [bidding phase](#bidding-phase) from each peasant
+- The base points is doubled for every bomb/rocket that was played
+- The base points is also doubled if neither peasants have played a card
+
+If the peasants win:
+- Each peasant takes base points equal to the number of risk points bid during the [bidding phase](#bidding-phase) from the landlord
+- The base points is doubled for every bomb/rocket that was played
+- The base points is also doubled if the landlord has not played any cards after the first trick
 
 ### Additional Notes
