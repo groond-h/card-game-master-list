@@ -17,7 +17,7 @@ a chart or table to quickly remind the user of game details.
 - 3 spare cards left in the middle of the table
 
 ## Objective
-how you win/lose
+Gain the most points across multiple rounds. 
 
 ## Rules
 Each round consists of two phases:
@@ -38,6 +38,10 @@ In this phase, players take turns bidding risk stakes (points) to be the landlor
 The landlord begins the first trick.
 
 ### Combinations
+
+### Ending the round
+- The landlord wins if they are the first player to discard all their cards
+- The peasant team wins if one peasant becomes the first player to discard all their cards
 
 ## Scoring
 If the landlord wins: 
