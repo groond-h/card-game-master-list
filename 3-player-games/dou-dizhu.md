@@ -10,11 +10,11 @@ a chart or table to quickly remind the user of game details.
 - [Rules](#rules)
 - [Scoring](#scoring)
 - [Additional Notes](#additional-notes)
+
 ## Setup
-- what cards to include/remove
-- How to deal the cards in the beginning
-- who starts
-- some other misc items
+- 52 card deck + 2 Jokers (red and black)
+- Deal each player 17 cards
+- 3 spare cards left in the middle of the table
 
 ## Objective
 how you win/lose
