@@ -1,7 +1,7 @@
 [return](../master.md)
 # Dou Dizhu (Fighting the Landlord)
-> <sub>Reference: Wikipedia (link needed)</sub>
-> A card-shedding game involving a unique 1v2 dynamic.
+> <sub>Reference: [Wikipedia](https://en.wikipedia.org/wiki/Dou_dizhu)</sub>
+> A card-shedding game involving a unique 1v2 dynamic and many card combinations.
 ## Quick Reference
 a chart or table to quickly remind the user of game details.
 ## Table of Contents
